@@ -1,0 +1,6 @@
+"python.code-workspace" 
+
+# Ignore virtual environments
+venv/
+Python/venv/ 
+
